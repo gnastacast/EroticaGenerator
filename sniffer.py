@@ -21,4 +21,4 @@ def sniff_porn_csv(csv_file, title_index):
 	return
 
 if __name__ == '__main__':
-    mc = sniff_porn_csv('pornhub.com-db.csv', 4)
+    mc = sniff_porn_csv('Data/pornhub.com-db.csv', 4)
