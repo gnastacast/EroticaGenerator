@@ -1,0 +1,6 @@
+[submodule "saliency-map"]
+	path = saliency-map
+	url = https://github.com/gnastacast/saliency-map.git
+[submodule "image-segmentation"]
+	path = image-segmentation
+	url = https://github.com/gnastacast/image-segmentation.git
